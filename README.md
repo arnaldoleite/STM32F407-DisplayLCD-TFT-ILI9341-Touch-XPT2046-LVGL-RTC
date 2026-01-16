@@ -24,5 +24,6 @@ EEZ Studio [...](https://www.envox.eu/studio/studio-introduction/)
 
 ![Test Image 1](https://github.com/arnaldoleite/STM32F407-DisplayLCD-TFT-ILI9341-Touch-XPT2046-LVGL/blob/master/STM32LCD_test/Images/image001.jpg)
 
-https://github.com/user-attachments/assets/f51414ee-97ac-424c-8644-9eb20fb4ae46
+https://github.com/user-attachments/assets/a6cbd83b-61f2-4872-9d39-31bfff786f9a
+
 
