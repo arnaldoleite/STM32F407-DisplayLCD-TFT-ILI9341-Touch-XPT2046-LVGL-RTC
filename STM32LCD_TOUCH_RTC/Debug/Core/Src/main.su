@@ -1,0 +1,17 @@
+../Core/Src/main.c:90:6:dump_hex	32	static
+../Core/Src/main.c:111:6:fill_buffer	32	static
+../Core/Src/main.c:128:9:check_buffer	40	static
+../Core/Src/main.c:158:10:get_sum	24	static
+../Core/Src/main.c:165:6:runTests	4144	static
+../Core/Src/main.c:281:13:serialmempory_initr	4112	static
+../Core/Src/main.c:331:13:rtc_set_datetime	32	static
+../Core/Src/main.c:358:13:rtc_lvgl_timer_cb	112	static
+../Core/Src/main.c:379:6:action_cmd_main_clicked	16	static
+../Core/Src/main.c:391:5:main	16	static
+../Core/Src/main.c:465:6:SystemClock_Config	88	static
+../Core/Src/main.c:513:13:MX_RTC_Init	32	static
+../Core/Src/main.c:576:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:614:13:MX_SPI3_Init	8	static
+../Core/Src/main.c:652:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:692:13:MX_FSMC_Init	40	static
+../Core/Src/main.c:752:6:Error_Handler	4	static,ignoring_inline_asm

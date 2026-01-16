@@ -1,0 +1,17 @@
+../Core/Src/main.c:90:6:dump_hex	4
+../Core/Src/main.c:111:6:fill_buffer	6
+../Core/Src/main.c:128:9:check_buffer	11
+../Core/Src/main.c:158:10:get_sum	2
+../Core/Src/main.c:165:6:runTests	16
+../Core/Src/main.c:281:13:serialmempory_initr	2
+../Core/Src/main.c:331:13:rtc_set_datetime	3
+../Core/Src/main.c:358:13:rtc_lvgl_timer_cb	1
+../Core/Src/main.c:379:6:action_cmd_main_clicked	1
+../Core/Src/main.c:391:5:main	1
+../Core/Src/main.c:465:6:SystemClock_Config	3
+../Core/Src/main.c:513:13:MX_RTC_Init	4
+../Core/Src/main.c:576:13:MX_SPI2_Init	2
+../Core/Src/main.c:614:13:MX_SPI3_Init	2
+../Core/Src/main.c:652:13:MX_GPIO_Init	1
+../Core/Src/main.c:692:13:MX_FSMC_Init	2
+../Core/Src/main.c:752:6:Error_Handler	1
