@@ -22,8 +22,14 @@ EEZ Studio [...](https://www.envox.eu/studio/studio-introduction/)
 
 # Images and videos
 
-![Test Image 1](https://github.com/arnaldoleite/STM32F407-DisplayLCD-TFT-ILI9341-Touch-XPT2046-LVGL/blob/master/STM32LCD_test/Images/image001.jpg)
+![Test Image 1](https://github.com/arnaldoleite/STM32F407-DisplayLCD-TFT-ILI9341-Touch-XPT2046-LVGL-RTC/blob/master/STM32LCD_TOUCH_RTC/Images/image001.jpg)
+
+Before enable RTC
 
 https://github.com/user-attachments/assets/a6cbd83b-61f2-4872-9d39-31bfff786f9a
+
+After enable RTC
+
+https://github.com/user-attachments/assets/8ed16ea7-c06d-4036-addc-2b03a65c75f9
 
 
