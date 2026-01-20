@@ -20,6 +20,10 @@ Lvgl [...](https://docs.lvgl.io/8.2/intro/index.html)
 
 EEZ Studio [...](https://www.envox.eu/studio/studio-introduction/)
 
+RTC for STM32 Tutorial [...](https://www.youtube.com/watch?v=Nm-16YhCYl8)
+
+Thanks!!
+
 # Images and videos
 
 ![Test Image 1](https://github.com/arnaldoleite/STM32F407-DisplayLCD-TFT-ILI9341-Touch-XPT2046-LVGL-RTC/blob/master/STM32LCD_TOUCH_RTC/Images/image001.jpg)
